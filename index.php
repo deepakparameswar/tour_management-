@@ -66,16 +66,16 @@
                         <li class="active">
                             <a href="index.php">Home</a>
                         </li>
-                        <li class="active">
-                            <a href="shop.php">Shop</a>
+                        <li>
+                            <a href="Order_now.php">Order now</a>
                         </li>
-                        <li class="active">
+                        <li>
                             <a href="checkout.php">My Account</a>
                         </li>
-                        <li class="active">
+                        <li>
                             <a href="cart.php">Shopping Cart</a>
                         </li>
-                        <li class="active">
+                        <li>
                             <a href="contact.php">Contact Us</a>
                         </li>
                     </ul> <!-- nav navbar-nav navbar-left ends-->

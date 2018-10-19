@@ -7,7 +7,7 @@
                 <ul><!-- ul starts-->
                     <li><a href="cart.php">Shopping Cart</a></li>
                     <li><a href="contact.php">Contact Us</a></li>
-                    <li><a href="shop.php">Shop</a></li>
+                    <li><a href="Order_now.php">Order Now</a></li>
                     <li><a href="checkout.php">My Account</a></li>
                 </ul><!-- ul ends-->
 
