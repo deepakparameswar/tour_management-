@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
     <head>
         <title>Natours | Exciting tours for adventurous people</title>
@@ -143,7 +144,35 @@
 
                 <div class="row"><!-- row starts -->
 
-                    <div class="col-md-4 col-sm-6 center-resposive"> <!-- col-md-4 col-sm-6 center-resposive -->
+                    <div class="col-md-4 col-sm-6 center-resposive"> <!-- col-md-4 col-sm-6 center-resposive starts -->
+                        
+                        <div class="product"><!-- product starts -->
+
+                            <a href="details.php"><!-- a starts -->
+                                <img src="admin_area/product_images/goa.jpg" alt="Goa" class="img-responsive"> 
+                            </a><!-- a ends -->
+
+
+                            <div class="text"> <!-- text starts -->
+
+                                <h3><a href="details.php">Goa</a></h3>
+
+                                <p class="price">$500</p>
+
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <i class="fa fa-shopping-cart"></i>Add to cart
+                                    </a>
+                                </p>
+
+                            </div> <!-- text ends -->
+
+                        </div><!-- product ends -->
+
+                    </div> <!-- col-md-4 col-sm-6 center-resposive ends -->
+
+                    <div class="col-md-4 col-sm-6 center-resposive"> <!-- col-md-4 col-sm-6 center-resposive starts -->
                         <div class="product"><!-- product starts -->
                             <a href="details.php"><!-- a starts -->
                                 <img src="admin_area/product_images/goa.jpg" alt="Goa" class="img-responsive"> 
@@ -166,9 +195,175 @@
                             </div> <!-- text ends -->
 
                         </div><!-- product ends -->
-                    </div>
+                        
+                    </div> <!-- col-md-4 col-sm-6 center-resposive ends -->
+
+                    <div class="col-md-4 col-sm-6 center-resposive"> <!-- col-md-4 col-sm-6 center-resposive starts -->
+                        <div class="product"><!-- product starts -->
+                            <a href="details.php"><!-- a starts -->
+                                <img src="admin_area/product_images/goa.jpg" alt="Goa" class="img-responsive"> 
+                            </a><!-- a ends -->
+
+
+                            <div class="text"> <!-- text starts -->
+
+                                <h3><a href="details.php">Goa</a></h3>
+
+                                <p class="price">$500</p>
+
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <i class="fa fa-shopping-cart"></i>Add to cart
+                                    </a>
+                                </p>
+
+                            </div> <!-- text ends -->
+
+                        </div><!-- product ends -->
+                        
+                    </div> <!-- col-md-4 col-sm-6 center-resposive ends -->
+
+                    <div class="col-md-4 col-sm-6 center-resposive"> <!-- col-md-4 col-sm-6 center-resposive starts -->
+                        <div class="product"><!-- product starts -->
+                            <a href="details.php"><!-- a starts -->
+                                <img src="admin_area/product_images/goa.jpg" alt="Goa" class="img-responsive"> 
+                            </a><!-- a ends -->
+
+
+                            <div class="text"> <!-- text starts -->
+
+                                <h3><a href="details.php">Goa</a></h3>
+
+                                <p class="price">$500</p>
+
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <i class="fa fa-shopping-cart"></i>Add to cart
+                                    </a>
+                                </p>
+
+                            </div> <!-- text ends -->
+
+                        </div><!-- product ends -->
+                        
+                    </div> <!-- col-md-4 col-sm-6 center-resposive ends -->
+
+                    <div class="col-md-4 col-sm-6 center-resposive"> <!-- col-md-4 col-sm-6 center-resposive starts -->
+                        <div class="product"><!-- product starts -->
+                            <a href="details.php"><!-- a starts -->
+                                <img src="admin_area/product_images/goa.jpg" alt="Goa" class="img-responsive"> 
+                            </a><!-- a ends -->
+
+
+                            <div class="text"> <!-- text starts -->
+
+                                <h3><a href="details.php">Goa</a></h3>
+
+                                <p class="price">$500</p>
+
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <i class="fa fa-shopping-cart"></i>Add to cart
+                                    </a>
+                                </p>
+
+                            </div> <!-- text ends -->
+
+                        </div><!-- product ends -->
+                        
+                    </div> <!-- col-md-4 col-sm-6 center-resposive ends -->
+
+                    <div class="col-md-4 col-sm-6 center-resposive"> <!-- col-md-4 col-sm-6 center-resposive starts -->
+                        <div class="product"><!-- product starts -->
+                            <a href="details.php"><!-- a starts -->
+                                <img src="admin_area/product_images/goa.jpg" alt="Goa" class="img-responsive"> 
+                            </a><!-- a ends -->
+
+
+                            <div class="text"> <!-- text starts -->
+
+                                <h3><a href="details.php">Goa</a></h3>
+
+                                <p class="price">$500</p>
+
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <i class="fa fa-shopping-cart"></i>Add to cart
+                                    </a>
+                                </p>
+
+                            </div> <!-- text ends -->
+
+                        </div><!-- product ends -->
+                        
+                    </div> <!-- col-md-4 col-sm-6 center-resposive ends -->
+
+                    <div class="col-md-4 col-sm-6 center-resposive"> <!-- col-md-4 col-sm-6 center-resposive starts -->
+                        <div class="product"><!-- product starts -->
+                            <a href="details.php"><!-- a starts -->
+                                <img src="admin_area/product_images/goa.jpg" alt="Goa" class="img-responsive"> 
+                            </a><!-- a ends -->
+
+
+                            <div class="text"> <!-- text starts -->
+
+                                <h3><a href="details.php">Goa</a></h3>
+
+                                <p class="price">$500</p>
+
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <i class="fa fa-shopping-cart"></i>Add to cart
+                                    </a>
+                                </p>
+
+                            </div> <!-- text ends -->
+
+                        </div><!-- product ends -->
+                        
+                    </div> <!-- col-md-4 col-sm-6 center-resposive ends -->
+
+                    <div class="col-md-4 col-sm-6 center-resposive"> <!-- col-md-4 col-sm-6 center-resposive starts -->
+                        <div class="product"><!-- product starts -->
+                            <a href="details.php"><!-- a starts -->
+                                <img src="admin_area/product_images/goa.jpg" alt="Goa" class="img-responsive"> 
+                            </a><!-- a ends -->
+
+
+                            <div class="text"> <!-- text starts -->
+
+                                <h3><a href="details.php">Goa</a></h3>
+
+                                <p class="price">$500</p>
+
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <i class="fa fa-shopping-cart"></i>Add to cart
+                                    </a>
+                                </p>
+
+                            </div> <!-- text ends -->
+
+                        </div><!-- product ends -->
+                        
+                    </div> <!-- col-md-4 col-sm-6 center-resposive ends -->
 
                 </div><!-- row ends -->
+                <center><!-- center starts -->
+                    <ul  class="pagination"><!-- pagination starts -->
+                        <li><a href="Order_now.php">First page</a></li>
+                        <li><a href="Order_now.php">1</a></li>
+                        <li><a href="Order_now.php">2</a></li>
+                        <li><a href="Order_now.php">3</a></li>
+                        <li><a href="Order_now.php">Last page</a></li>
+                    </ul><!-- pagination ends -->
+                </center><!-- center ends -->
 
             </div><!-- col-md-9 ends -->
 
